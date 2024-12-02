@@ -10,7 +10,8 @@ Scripts to automate tasks in Clash of Clans using the official API. These script
 4. [Getting Your Clan Tag](#getting-your-clan-tag)
 5. [Configuring Text Files](#configuring-text-files)
 6. [Running the Scripts](#running-the-scripts)
-7. [Contributing](#contributing)
+7. [Example results](#examples-results)
+8. [Contributing](#contributing)
 
 ---
 
@@ -76,6 +77,12 @@ If you encounter issues with double-clicking, you can also run the scripts from 
 
    ```bash
    python script.py
+
+### Examples results
+
+Here are some example outputs from running the scripts:
+![image](https://github.com/user-attachments/assets/4c69a811-9d0a-4e49-86c0-6a652d9311b2)
+![image](https://github.com/user-attachments/assets/b82261eb-7ff1-4b6a-9112-cdd59d34cc15)
 
 ### Contributing
 
