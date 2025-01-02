@@ -77,8 +77,8 @@ def count_members_by_th(clans):
             if townhall_level:
                 townhall_counts[townhall_level] += 1
 
-        # Filter only up to the first 15 levels (TH16, TH15, ..., TH2)
-        filtered_count = {th: townhall_counts[th] for th in range(16, 1, -1)}
+        # Filter only up to the first 15 levels (TH17, TH15, ..., TH2)
+        filtered_count = {th: townhall_counts[th] for th in range(17, 1, -1)}
         
         # Get the history of the last 3 wars of the clan
         clan_tag = clan.get("tag").strip("#")
